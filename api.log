@@ -1,0 +1,104 @@
+2025-12-01 23:32:24,443 - INFO - Requisiï¿½ï¿½o recebida: GET /escolas
+2025-12-01 23:32:24,455 - INFO - Conexï¿½o com SQLite aberta.
+2025-12-01 23:56:41,822 - INFO - Requisiï¿½ï¿½o recebida: GET /escolas
+2025-12-01 23:56:41,825 - INFO - Conexï¿½o com SQLite aberta.
+2025-12-02 13:56:36,124 - INFO - Criando tabela 'instituicoes' (se nï¿½o existir)
+2025-12-02 13:56:36,172 - INFO - Tabela criada ou jï¿½ existente.
+2025-12-02 13:56:36,184 - INFO - Iniciando carga do ano 2022: arquivo microdados_ed_basica_2022.csv
+2025-12-02 13:56:37,620 - INFO - Processando chunk 1 do ano 2022
+2025-12-02 14:35:34,700 - INFO - Criando tabela 'instituicoes' (se nï¿½o existir)
+2025-12-02 14:35:34,734 - INFO - Tabela criada ou jï¿½ existente.
+2025-12-02 14:35:34,736 - INFO - Iniciando carga do ano 2022: arquivo microdados_ed_basica_2022.csv
+2025-12-02 14:35:36,299 - INFO - Processando chunk 1 do ano 2022
+2025-12-02 14:35:37,979 - INFO - Processando chunk 2 do ano 2022
+2025-12-02 14:35:39,637 - INFO - Processando chunk 3 do ano 2022
+2025-12-02 14:35:41,583 - INFO - Processando chunk 4 do ano 2022
+2025-12-02 14:35:43,182 - INFO - Processando chunk 5 do ano 2022
+2025-12-02 14:35:44,781 - INFO - Processando chunk 6 do ano 2022
+2025-12-02 14:35:46,368 - INFO - Processando chunk 7 do ano 2022
+2025-12-02 14:35:47,867 - INFO - Processando chunk 8 do ano 2022
+2025-12-02 14:35:49,590 - INFO - Processando chunk 9 do ano 2022
+2025-12-02 14:35:51,224 - INFO - Processando chunk 10 do ano 2022
+2025-12-02 14:35:52,740 - INFO - Processando chunk 11 do ano 2022
+2025-12-02 14:35:54,409 - INFO - Processando chunk 12 do ano 2022
+2025-12-02 14:35:56,043 - INFO - Processando chunk 13 do ano 2022
+2025-12-02 14:35:57,780 - INFO - Processando chunk 14 do ano 2022
+2025-12-02 14:35:59,425 - INFO - Processando chunk 15 do ano 2022
+2025-12-02 14:36:01,236 - INFO - Processando chunk 16 do ano 2022
+2025-12-02 14:36:03,143 - INFO - Processando chunk 17 do ano 2022
+2025-12-02 14:36:04,788 - INFO - Processando chunk 18 do ano 2022
+2025-12-02 14:36:06,559 - INFO - Processando chunk 19 do ano 2022
+2025-12-02 14:36:08,244 - INFO - Processando chunk 20 do ano 2022
+2025-12-02 14:36:10,019 - INFO - Processando chunk 21 do ano 2022
+2025-12-02 14:36:11,863 - INFO - Processando chunk 22 do ano 2022
+2025-12-02 14:36:12,828 - INFO - Processando chunk 23 do ano 2022
+2025-12-02 14:36:13,109 - INFO - Carga finalizada para ano 2022!
+2025-12-02 14:36:13,110 - INFO - Iniciando carga do ano 2023: arquivo microdados_ed_basica_2023.csv
+2025-12-02 14:36:14,871 - INFO - Processando chunk 1 do ano 2023
+2025-12-02 14:36:16,675 - INFO - Processando chunk 2 do ano 2023
+2025-12-02 14:36:18,568 - INFO - Processando chunk 3 do ano 2023
+2025-12-02 14:36:20,313 - INFO - Processando chunk 4 do ano 2023
+2025-12-02 14:36:22,427 - INFO - Processando chunk 5 do ano 2023
+2025-12-02 14:36:25,142 - INFO - Processando chunk 6 do ano 2023
+2025-12-02 14:36:28,418 - INFO - Processando chunk 7 do ano 2023
+2025-12-02 14:36:30,309 - INFO - Processando chunk 8 do ano 2023
+2025-12-02 14:36:32,234 - INFO - Processando chunk 9 do ano 2023
+2025-12-02 14:36:34,178 - INFO - Processando chunk 10 do ano 2023
+2025-12-02 14:36:36,069 - INFO - Processando chunk 11 do ano 2023
+2025-12-02 14:36:37,768 - INFO - Processando chunk 12 do ano 2023
+2025-12-02 14:36:39,636 - INFO - Processando chunk 13 do ano 2023
+2025-12-02 14:36:41,391 - INFO - Processando chunk 14 do ano 2023
+2025-12-02 14:36:43,262 - INFO - Processando chunk 15 do ano 2023
+2025-12-02 14:36:45,096 - INFO - Processando chunk 16 do ano 2023
+2025-12-02 14:36:46,919 - INFO - Processando chunk 17 do ano 2023
+2025-12-02 14:36:49,054 - INFO - Processando chunk 18 do ano 2023
+2025-12-02 14:36:51,985 - INFO - Processando chunk 19 do ano 2023
+2025-12-02 14:36:54,118 - INFO - Processando chunk 20 do ano 2023
+2025-12-02 14:36:56,495 - INFO - Processando chunk 21 do ano 2023
+2025-12-02 14:36:58,699 - INFO - Processando chunk 22 do ano 2023
+2025-12-02 14:36:58,967 - INFO - Carga finalizada para ano 2023!
+2025-12-02 14:36:58,971 - INFO - Iniciando carga do ano 2024: arquivo microdados_ed_basica_2024.csv
+2025-12-02 14:37:01,465 - INFO - Processando chunk 1 do ano 2024
+2025-12-02 14:37:03,505 - INFO - Processando chunk 2 do ano 2024
+2025-12-02 14:37:05,429 - INFO - Processando chunk 3 do ano 2024
+2025-12-02 14:37:07,287 - INFO - Processando chunk 4 do ano 2024
+2025-12-02 14:37:09,126 - INFO - Processando chunk 5 do ano 2024
+2025-12-02 14:37:11,278 - INFO - Processando chunk 6 do ano 2024
+2025-12-02 14:37:13,641 - INFO - Processando chunk 7 do ano 2024
+2025-12-02 14:37:15,726 - INFO - Processando chunk 8 do ano 2024
+2025-12-02 14:37:18,200 - INFO - Processando chunk 9 do ano 2024
+2025-12-02 14:37:21,236 - INFO - Processando chunk 10 do ano 2024
+2025-12-02 14:37:23,930 - INFO - Processando chunk 11 do ano 2024
+2025-12-02 14:37:25,989 - INFO - Processando chunk 12 do ano 2024
+2025-12-02 14:37:27,951 - INFO - Processando chunk 13 do ano 2024
+2025-12-02 14:37:29,981 - INFO - Processando chunk 14 do ano 2024
+2025-12-02 14:37:32,002 - INFO - Processando chunk 15 do ano 2024
+2025-12-02 14:37:34,056 - INFO - Processando chunk 16 do ano 2024
+2025-12-02 14:37:36,541 - INFO - Processando chunk 17 do ano 2024
+2025-12-02 14:37:38,805 - INFO - Processando chunk 18 do ano 2024
+2025-12-02 14:37:41,270 - INFO - Processando chunk 19 do ano 2024
+2025-12-02 14:37:43,486 - INFO - Processando chunk 20 do ano 2024
+2025-12-02 14:37:45,578 - INFO - Processando chunk 21 do ano 2024
+2025-12-02 14:37:46,711 - INFO - Processando chunk 22 do ano 2024
+2025-12-02 14:37:46,958 - INFO - Carga finalizada para ano 2024!
+2025-12-02 14:37:46,960 - INFO - Carga feita!
+2025-12-02 14:55:54,891 - INFO - Requisiï¿½ï¿½o recebida: GET /instituicoesensino/ranking/2023
+2025-12-02 14:55:54,894 - INFO - Buscando IEs para ranking (calculo em tempo real) do ano 2023.
+2025-12-02 14:55:55,482 - INFO - Top 10 IEs encontradas para o ano 2023.
+2025-12-02 14:55:55,484 - INFO - Sucesso ao buscar ranking para o ano 2023. Retornando 10 IEs.
+2025-12-02 14:57:43,411 - INFO - Requisiï¿½ï¿½o recebida: GET /instituicoesensino/ranking/2024
+2025-12-02 14:57:43,412 - INFO - Buscando IEs para ranking (calculo em tempo real) do ano 2024.
+2025-12-02 14:57:43,931 - INFO - Top 10 IEs encontradas para o ano 2024.
+2025-12-02 14:57:43,933 - INFO - Sucesso ao buscar ranking para o ano 2024. Retornando 10 IEs.
+2025-12-02 14:57:56,068 - INFO - Requisiï¿½ï¿½o recebida: GET /instituicoesensino/ranking/2022
+2025-12-02 14:57:56,070 - INFO - Buscando IEs para ranking (calculo em tempo real) do ano 2022.
+2025-12-02 14:57:56,615 - INFO - Top 10 IEs encontradas para o ano 2022.
+2025-12-02 14:57:56,617 - INFO - Sucesso ao buscar ranking para o ano 2022. Retornando 10 IEs.
+2025-12-02 14:59:03,243 - INFO - Requisiï¿½ï¿½o recebida: GET /instituicoes
+2025-12-02 14:59:03,247 - INFO - 100 instituiï¿½ï¿½es retornadas
+2025-12-02 21:40:52,586 - INFO - Requisição recebida: GET /instituicoes
+2025-12-02 21:40:52,614 - INFO - 100 instituições retornadas
+2025-12-02 21:41:11,598 - INFO - Requisição recebida: GET /instituicoesensino/ranking/2022
+2025-12-02 21:41:11,599 - INFO - Buscando IEs para ranking (calculo em tempo real) do ano 2022.
+2025-12-02 21:41:12,554 - INFO - Top 10 IEs encontradas para o ano 2022.
+2025-12-02 21:41:12,556 - INFO - Sucesso ao buscar ranking para o ano 2022. Retornando 10 IEs.

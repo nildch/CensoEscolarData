@@ -1,0 +1,6 @@
+venv
+*.pyc
+**/*.pyc
+*.csv
+*.db
+censo_escolar.db*.db
